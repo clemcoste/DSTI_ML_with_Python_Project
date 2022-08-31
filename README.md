@@ -2,6 +2,14 @@
 
 Goodreads Books Kaggle's dataset evaluation, book's rating prediction.
 
+## How to evaluate
+Due to Bertrandt IT policy applied to my laptop, I was not allowed to use Anaconda and I have to access to Google Drive.
+That's why I propose a specific process in order to run the current project:
+1.   Clone the GitHub "main_branch" repository in your computer, or download the zip
+2.   Add The repository to your Google Drive account in order to have the full folder arborescence in your Google Colab workspace
+3.   Open a Google Colab session and browse to the repository
+4.   Start to execute the notebook called "main.ipynb" in the repository
+
 ## Project Objectives:
 Using the provided dataset, you are asked to train a model that predicts a book’s rating. The
 project can be submitted as a Jupyter Notebook and should include exploratory analysis of
@@ -46,10 +54,8 @@ point]
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.  
 │   └── figures        <- Generated graphics and figures to be used in reporting  
 │  
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.  
-│                         generated with `pip freeze > requirements.txt`  
-│  
-└── setup.py           <- Make this project pip installable with `pip install -e`  
-  
+└── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.  
+                          generated with `pip freeze > requirements.txt`  
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
