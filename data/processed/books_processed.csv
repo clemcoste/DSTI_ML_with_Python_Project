@@ -264,7 +264,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 935,3.93,eng,334,1556,158
 941,3.44,eng,58,9,2
 944,3.41,eng,95,59,7
-955,4.7,eng,0,22,4
 965,3.89,spa,508,196,20
 966,3.89,spa,18,65,7
 969,3.84,eng,467,1120,105
@@ -746,7 +745,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 2823,3.98,eng,160,10147,301
 2826,4.0,eng,179,9,2
 2834,3.79,eng,512,3664,58
-2835,3.79,eng,0,3,0
 2836,4.0,eng,191,1811,152
 2843,5.0,eng,32,4,1
 2847,3.76,eng,275,2018,294
@@ -933,10 +931,8 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 3584,4.22,eng,244,2037,71
 3585,3.96,eng,6,18,4
 3587,4.26,eng,304,29,6
-3593,4.0,eng,0,7,2
 3595,4.18,eng,218,119,8
 3597,4.33,eng,334,2184,87
-3599,3.5,eng,0,12,1
 3603,3.77,eng,458,114,15
 3604,3.77,eng,454,925,92
 3631,3.38,eng,328,948,27
@@ -1081,7 +1077,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 4232,3.71,eng,352,60,8
 4241,3.83,eng,168,710,22
 4248,3.84,eng,489,13934,1459
-4249,3.84,eng,0,91,16
 4250,3.84,spa,557,3276,190
 4251,3.64,eng,207,533,50
 4256,4.56,eng,480,3141,140
@@ -1362,7 +1357,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 5352,3.69,eng,384,58901,1642
 5354,3.73,eng,384,76085,1505
 5356,3.68,eng,276,68098,1705
-5362,3.99,eng,0,241,9
 5368,3.99,eng,972,14409,849
 5370,3.95,eng,160,834,42
 5371,3.84,eng,96,4787,189
@@ -1617,7 +1611,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 6539,4.05,eng,351,57415,920
 6540,3.78,eng,11,46,8
 6541,3.93,eng,356,38823,625
-6542,4.16,eng,0,202,1
 6543,3.41,eng,289,10084,598
 6545,3.88,eng,324,4278,178
 6546,3.89,eng,384,3721,236
@@ -1699,7 +1692,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 6925,4.15,eng,9,61,11
 6932,3.7,eng,382,4171,161
 6937,4.14,eng,240,21,1
-6953,3.95,eng,0,121,33
 6954,3.95,spa,248,11,2
 6956,4.06,eng,447,4246,195
 6970,3.99,eng,294,1335,59
@@ -1854,7 +1846,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 7591,3.61,eng,368,27,8
 7592,3.61,eng,256,419,46
 7596,3.94,eng,144,220,38
-7598,4.11,eng,0,75,2
 7599,4.07,eng,448,1608,212
 7600,4.07,eng,416,376,53
 7606,4.28,eng,457,2965,358
@@ -1891,7 +1882,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 7724,4.03,eng,88,2474,126
 7731,3.76,eng,118,433,20
 7734,3.57,eng,422,258,21
-7737,3.57,eng,0,4,1
 7739,3.35,eng,64,13,3
 7740,3.97,eng,160,933,26
 7741,3.57,eng,3,8,0
@@ -2163,13 +2153,11 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 8879,3.62,eng,288,24,1
 8880,2.62,eng,80,8,2
 8881,2.92,eng,288,53,2
-8889,3.0,eng,0,10,2
 8891,3.33,eng,183,12,1
 8895,3.28,eng,72,1,1
 8901,3.66,eng,158,461,10
 8910,4.2,eng,928,919,44
 8915,3.95,eng,416,472,41
-8916,4.14,eng,0,45,1
 8917,3.84,eng,320,60,4
 8919,3.64,eng,208,333,23
 8922,4.11,eng,5,135,20
@@ -2370,7 +2358,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 9827,4.14,eng,368,28103,643
 9828,3.51,eng,304,34,3
 9831,4.35,eng,120,174,16
-9832,3.84,eng,0,28,3
 9833,3.84,eng,333,22847,1280
 9840,3.63,eng,174,258,46
 9841,3.85,eng,384,1718,88
@@ -2402,7 +2389,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 9961,3.9,eng,372,4844,506
 9974,3.43,eng,165,7,1
 9975,3.85,ger,180,134,5
-9981,3.98,ger,0,2,0
 9987,4.03,ger,416,1254,63
 9997,3.55,eng,304,1398,105
 10000,3.78,eng,238,2584,153
@@ -2422,7 +2408,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 10057,3.48,eng,143,140,5
 10058,4.19,eng,382,45954,1297
 10061,4.17,eng,224,255,28
-10075,3.87,eng,0,24,1
 10079,4.05,eng,568,12235,306
 10080,4.04,eng,640,4947,119
 10083,3.25,eng,192,12,1
@@ -2453,7 +2438,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 10205,4.43,eng,296,2561,120
 10206,4.36,eng,232,229,22
 10208,4.42,eng,159,482,47
-10215,4.21,eng,0,19,4
 10217,3.95,eng,256,1511,104
 10219,4.22,eng,454,249,39
 10220,3.93,eng,272,845,57
@@ -2538,7 +2522,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 10593,4.22,eng,16,357,107
 10594,3.78,eng,304,50,2
 10597,4.23,eng,404,22,5
-10599,3.93,eng,0,156,9
 10605,3.71,eng,320,155020,1513
 10606,3.83,eng,251,53,2
 10607,4.01,eng,688,46428,1220
@@ -3111,7 +3094,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 12676,3.96,spa,288,67,3
 12678,3.96,spa,254,28,9
 12682,4.22,eng,505,1316,134
-12683,4.22,eng,0,13,0
 12684,4.22,eng,505,8,2
 12686,4.13,eng,306,697,158
 12703,3.85,eng,322,1898,201
@@ -3226,7 +3208,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 13100,3.84,eng,96,21,1
 13104,3.87,eng,68,1256,100
 13105,3.64,eng,256,9889,337
-13106,3.64,eng,0,64,10
 13107,3.84,eng,304,120,11
 13113,3.77,eng,412,424,47
 13119,3.83,eng,608,990,97
@@ -3333,7 +3314,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 13495,4.18,fre,198,122,2
 13500,3.86,eng,350,127,25
 13501,4.14,eng,164,15977,415
-13504,4.41,eng,0,113,12
 13505,4.1,eng,448,62,7
 13506,4.12,eng,412,3685,95
 13508,3.96,eng,384,402,55
@@ -3469,7 +3449,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 13835,4.24,eng,264,77540,1396
 13836,4.32,eng,362,61677,1448
 13837,4.28,eng,384,72386,1230
-13842,4.06,eng,0,117,36
 13845,4.12,eng,224,846,17
 13847,4.09,eng,256,459,37
 13853,4.21,eng,112,381,19
@@ -3929,7 +3908,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 15683,4.27,eng,365,817,52
 15688,3.98,fre,184,13454,765
 15690,3.98,eng,110,21,2
-15691,4.04,fre,0,17,3
 15692,3.83,eng,190,325,22
 15698,4.08,fre,224,6059,210
 15701,3.8,eng,176,163,12
@@ -4069,8 +4047,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 16301,4.27,eng,560,4296,310
 16305,3.97,eng,220,36334,975
 16307,3.66,eng,336,20656,1246
-16312,3.76,eng,0,14388,411
-16313,3.8,eng,0,49,10
 16315,4.04,eng,276,24849,1429
 16319,3.85,eng,191,46454,1675
 16320,4.05,eng,352,3967,67
@@ -4078,7 +4054,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 16329,3.79,eng,6,12256,393
 16330,3.92,eng,8,5473,144
 16331,4.05,eng,288,121099,2237
-16334,3.56,eng,0,1824,89
 16335,3.8,eng,317,23274,1053
 16336,3.83,eng,100,2813,167
 16340,3.87,eng,251,47,4
@@ -4330,8 +4305,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 17265,4.19,eng,224,958,28
 17271,3.82,eng,253,306,11
 17275,4.18,eng,180,123,21
-17276,4.71,eng,0,21,0
-17277,4.8,eng,0,20,0
 17279,4.59,eng,12,22,0
 17280,4.63,eng,384,716,15
 17289,4.42,eng,20,12,2
@@ -4431,7 +4404,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 17747,4.08,eng,31,924,65
 17761,4.41,ger,354,6,0
 17762,4.45,ger,478,8,0
-17766,4.1,eng,0,1,0
 17770,4.29,eng,413,3,0
 17778,4.38,ger,412,7,0
 17781,4.15,eng,369,24451,537
@@ -4482,7 +4454,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 17976,4.27,eng,176,130,7
 17977,4.13,eng,688,20232,609
 17982,4.41,eng,261,186,12
-17983,4.41,eng,0,3598,93
 17986,3.67,eng,138,985,63
 17994,4.29,eng,412,16531,977
 17998,4.04,eng,309,1660,125
@@ -4772,7 +4743,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 19072,3.94,eng,372,13,0
 19075,3.67,eng,327,3620,394
 19078,3.67,eng,576,401,33
-19081,3.67,eng,0,3,0
 19083,3.94,eng,368,26727,274
 19084,3.0,eng,80,2,0
 19088,3.98,eng,327,407,12
@@ -4791,7 +4761,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 19126,4.31,eng,200,5827,125
 19129,4.05,eng,224,2677,166
 19134,4.03,eng,471,1260,130
-19135,4.02,eng,0,56,5
 19136,4.02,spa,509,16,3
 19137,4.02,eng,817,18,3
 19144,4.25,eng,304,221,28
@@ -5013,7 +4982,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 20075,3.98,eng,366,7923,171
 20076,3.88,eng,237,1088,37
 20086,3.73,eng,131,2319,63
-20097,3.51,eng,0,42,12
 20117,4.38,eng,144,8,3
 20118,3.62,eng,64,13,1
 20126,4.33,eng,88,3,0
@@ -5203,12 +5171,9 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 21341,3.58,eng,128,4372,271
 21342,4.03,eng,40,0,0
 21348,4.05,eng,306,97136,947
-21352,3.76,eng,0,46,12
 21353,3.97,eng,11,106,32
 21362,4.08,eng,12,23534,390
-21365,4.03,eng,0,29,3
 21370,3.82,eng,9,115,24
-21402,3.82,eng,0,7,1
 21425,4.02,eng,7,76,9
 21426,4.04,eng,5,28,4
 21430,3.99,eng,8,101,13
@@ -5232,9 +5197,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 21543,4.2,eng,15,115,33
 21544,4.16,eng,12,132,28
 21545,3.6,eng,1,5,2
-21550,3.82,eng,0,57,11
-21553,3.87,eng,0,24,3
-21557,3.89,eng,0,2,0
 21581,4.1,eng,4,13,2
 21608,3.7,eng,278,6572,660
 21609,3.68,eng,270,342,35
@@ -5246,7 +5208,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 21626,3.82,eng,288,60,11
 21629,3.69,eng,227,485,8
 21638,3.94,eng,200,102,15
-21665,3.55,eng,0,3,0
 21673,4.18,eng,401,44,3
 21682,3.38,eng,240,2907,261
 21683,4.09,eng,375,16329,619
@@ -5308,18 +5269,10 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 21874,4.25,eng,6,16,1
 21895,4.25,eng,13,48,19
 21906,4.25,eng,6,39,9
-21928,4.26,eng,0,11,1
 21930,4.13,eng,4,17,0
-21931,4.01,eng,0,1,0
-21932,4.13,eng,0,3,0
-21933,4.27,eng,0,15,1
-21934,4.05,eng,0,1,1
 21947,4.17,ger,400,16,2
-21969,4.13,eng,0,112,16
 21972,4.02,eng,473,152,41
-21974,3.93,eng,0,41,9
 21980,3.8,eng,12,79,18
-21991,3.44,eng,0,16,2
 22017,3.97,eng,336,35,1
 22026,3.97,eng,416,16557,502
 22027,3.35,eng,288,1554,54
@@ -5350,7 +5303,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 22146,3.94,eng,406,599,16
 22148,3.74,eng,336,341,12
 22155,4.22,eng,272,7838,681
-22160,4.26,eng,0,214,49
 22163,4.09,eng,294,5588,942
 22166,3.29,eng,111,115,22
 22175,4.03,eng,208,6952,422
@@ -5505,7 +5457,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 22633,3.39,eng,384,52,8
 22649,3.72,eng,368,37153,822
 22656,3.65,eng,450,683,66
-22669,3.7,eng,0,0,0
 22677,3.76,eng,272,51,6
 22680,3.92,eng,440,20178,590
 22681,3.81,eng,448,609,82
@@ -5712,7 +5663,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 23576,3.86,eng,386,7469,201
 23577,3.81,eng,421,25235,723
 23581,3.37,eng,96,56,11
-23582,3.89,eng,0,18,0
 23584,3.82,eng,352,359,35
 23588,4.14,eng,224,8140,32
 23591,3.97,eng,313,2681,225
@@ -6388,7 +6338,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 26314,3.67,eng,96,3,1
 26321,4.29,eng,432,57,4
 26324,3.98,eng,403,10327,318
-26327,3.82,eng,0,11,2
 26329,4.01,eng,384,63501,1663
 26330,4.04,eng,288,302,8
 26344,4.32,eng,215,14,2
@@ -6436,7 +6385,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 26590,4.08,eng,112,263,17
 26591,4.05,eng,119,1073,30
 26592,4.07,eng,128,659,30
-26593,4.04,eng,0,7,0
 26595,3.94,eng,96,6816,227
 26599,4.22,eng,208,12438,264
 26603,4.38,eng,208,1206,49
@@ -6549,7 +6497,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 27356,3.5,eng,24,50,11
 27363,3.91,eng,532,1614,173
 27368,3.72,eng,270,24,2
-27385,3.78,eng,0,1,0
 27397,3.97,eng,512,13628,754
 27398,3.74,eng,320,24619,765
 27399,3.74,eng,368,5,0
@@ -6847,7 +6794,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 28568,4.1,eng,560,15135,584
 28569,3.8,eng,512,3061,148
 28570,4.0,eng,451,6283,268
-28585,2.96,eng,0,6,0
 28597,4.26,eng,284,5394,299
 28606,3.97,eng,200,72,6
 28617,3.0,eng,212,2,0
@@ -6999,12 +6945,9 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 29248,3.54,eng,368,128,15
 29251,4.11,eng,224,861,81
 29252,4.34,eng,352,616,49
-29253,4.21,eng,0,61,6
 29254,4.29,eng,416,20343,692
 29255,4.24,eng,192,713,30
 29256,4.17,eng,448,898,52
-29257,4.16,eng,0,68,4
-29260,3.95,eng,0,21,1
 29285,4.46,eng,144,129,8
 29286,4.1,eng,64,673,55
 29289,4.13,eng,64,4076,104
@@ -7504,7 +7447,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 31260,3.8,eng,662,9567,252
 31262,3.64,eng,320,5141,160
 31267,4.01,eng,390,4414,127
-31270,3.95,eng,0,5,1
 31271,3.88,eng,352,12533,80
 31294,3.56,eng,112,2356,103
 31299,3.75,eng,196,13515,368
@@ -8279,7 +8221,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 34672,3.91,eng,442,426,12
 34678,3.65,eng,374,515,21
 34687,4.3,eng,32,963,92
-34706,2.62,eng,0,8,1
 34708,4.25,eng,464,2567,33
 34760,4.03,eng,240,17354,650
 34762,3.47,eng,320,222,16
@@ -8313,7 +8254,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 34915,3.97,eng,503,72,3
 34921,3.77,eng,307,630,14
 34922,4.16,ger,224,5,0
-34938,3.96,eng,0,1,0
 34939,3.79,eng,320,76,9
 34941,3.57,eng,336,13158,455
 34948,3.45,fre,390,6,2
@@ -8443,7 +8383,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 35476,4.13,eng,270,10390,447
 35479,3.9,eng,722,1970,64
 35481,3.76,eng,420,1336,35
-35485,3.64,eng,0,39,2
 35488,4.07,eng,310,17107,566
 35489,3.79,eng,334,285,25
 35491,3.62,eng,389,1154,56
@@ -8474,7 +8413,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 35711,4.11,eng,288,3675,422
 35722,4.13,eng,224,1877,171
 35724,4.11,eng,464,19,1
-35735,4.19,eng,0,60,4
 35750,4.35,eng,784,377,66
 35751,4.14,eng,534,19,1
 35757,3.8,eng,304,10,0
@@ -8849,10 +8787,8 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 37877,1.0,eng,8,1,0
 37892,3.78,eng,400,118,11
 37900,3.69,eng,432,567,18
-37902,3.0,eng,0,3,1
 37905,4.33,eng,24,14,1
 37909,4.16,eng,192,1419,38
-37911,3.8,eng,0,103,14
 37947,3.9,eng,192,1098,75
 37951,3.92,eng,336,734,40
 37952,3.86,eng,276,788,85
@@ -8942,7 +8878,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 38500,3.86,eng,291,52415,2081
 38503,3.92,eng,238,16544,431
 38504,4.24,eng,320,12358,533
-38510,4.07,spa,0,3,0
 38511,3.92,eng,346,1425,73
 38513,3.52,eng,217,314,11
 38514,3.44,eng,136,695,27
@@ -9306,7 +9241,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 40338,3.65,eng,5,95,22
 40339,3.67,eng,5,93,26
 40342,4.11,eng,325,2509,292
-40343,4.29,eng,0,101,3
 40347,4.17,eng,339,155,13
 40359,4.19,eng,324,307,28
 40360,3.62,eng,6,79,29
@@ -9314,7 +9248,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 40364,3.56,eng,434,1495,92
 40372,3.7,eng,179,1235,66
 40376,3.82,eng,191,2812,61
-40378,3.83,eng,0,5147,157
 40379,3.86,eng,6,9350,345
 40384,3.78,eng,160,2601,58
 40385,3.85,eng,160,3949,80
@@ -9468,7 +9401,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 41261,3.04,eng,224,181,19
 41264,3.12,eng,208,144,25
 41270,4.09,eng,224,23,3
-41273,3.23,eng,0,17,4
 41278,3.85,eng,223,77,10
 41304,4.13,eng,640,888,45
 41307,4.04,fre,152,87,6
@@ -9877,7 +9809,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 43339,4.02,eng,304,39738,969
 43340,3.75,eng,373,7472,296
 43342,3.87,eng,384,20843,421
-43343,3.49,eng,0,64,2
 43344,3.61,eng,253,12,2
 43348,3.84,eng,208,1756,255
 43352,3.81,eng,307,14904,291
@@ -10164,7 +10095,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 44735,4.24,eng,352,7564,206
 44737,3.21,eng,177,14,3
 44739,4.04,eng,403,147,12
-44748,3.85,eng,0,21,1
 44749,3.82,eng,396,1873,34
 44758,3.82,eng,373,2261,47
 44759,3.76,eng,304,15,1
@@ -10318,7 +10248,6 @@ bookID,average_rating,language_code,num_pages,ratings_count,text_reviews_count
 45462,4.05,spa,368,21,1
 45463,3.95,spa,320,15,3
 45465,3.84,eng,6,55,14
-45472,3.86,eng,0,36,9
 45479,4.13,eng,326,677,77
 45480,4.09,eng,518,562,61
 45485,4.13,eng,8,39,8
