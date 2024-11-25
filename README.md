@@ -1,60 +1,67 @@
 # DSTI ML Labs Project
 
-Goodreads Books Kaggle's dataset evaluation, book's rating prediction.
+## 📚 Project Overview
 
-## How to evaluate
-Due to Bertrandt IT policy applied to my laptop, I was not allowed to use Anaconda and I have to access to Google Drive.
-That's why I propose a specific process in order to run the current project:
-1.   Clone the GitHub "main_branch" repository in your computer, or download the zip
-2.   Add The repository to your Google Drive account in order to have the full folder arborescence in your Google Colab workspace
-3.   Open a Google Colab session and browse to the repository
-4.   Start to execute the notebook called "main.ipynb" in the repository
+This project focuses on predicting book ratings using the Goodreads Books dataset from Kaggle. The goal is to apply machine learning techniques, including data exploration, feature engineering, model training, and evaluation, to achieve accurate predictions.
 
-## Project Objectives:
-Using the provided dataset "books.csv", you are asked to train a model that predicts a book’s rating. The
-project can be submitted as a Jupyter Notebook and should include exploratory analysis of
-the data, feature engineering and selection, model training and evaluation.  
-You may use additional resources from those that are suggested in the “Project Resources”
-section or others as you see fit (provided you can justify how they can serve your solution).
-You can even consult similar solutions from the Internet.   
-However, this comes with a big
-responsibility: any submission that is over-plagiarised or does not reflect personal work
-will not be accepted.
+## 🚀 How to Run the Project
 
-## Project Evaluation:
-The project will be evaluated using the following rubric. It contains the required items for a
-complete submission as well as bonus elements. The grading system is over 5 and the final
-grade will be transformed to a grade over 100.
+⚠️ Note: Due to Bertrandt’s IT policy, restrictions prevent the use of Anaconda and direct access to Google Drive from my laptop. The following steps outline a process to bypass these limitations:
+1.	Clone the Repository  
+	•	Clone the main_branch of this GitHub repository to your local computer, or download the zip file.
+2.	Upload to Google Drive  
+	•	Add the repository folder to your Google Drive account to make the file structure accessible in Google Colab.
+3.	Open in Google Colab  
+	•	Launch a Google Colab session.
+	•	Navigate to the repository folder in Colab’s file browser.
+4.	Run the Notebook  
+	•	Execute the notebook main.ipynb to start the project.
 
-● Data analysis (data processing, data cleaning, exploratory analysis, plots of relevant
-attributes) [1 point]  
-● Feature selection (feature engineering, feature pruning, choice justification) [1 point]  
-● Model training (motivation for selected model, comparison of different models) [1
-point]  
-● Model evaluation (evaluation metric, results interpretation) [1 point]  
-● Project report (short report explaining the approach and results) [1 point]  
-● BONUS: Project reproducibility (requirements file with necessary packages, README
-file for running the project) [1/2 point]  
-● BONUS: Project hosting (Github, Docker, AWS, Heroku or any other method) [1/2
-point]
+## 🎯 Project Objectives
+
+Using the dataset books.csv, the task is to:
+	1.	Train a machine learning model to predict book ratings.
+	2.	Conduct exploratory data analysis (EDA), feature engineering, and selection.
+	3.	Build, train, and evaluate models using appropriate metrics.
+
+## 📝 Project Evaluation Criteria
+
+The project will be evaluated based on the following rubric (score: 5 points total):
+1.	Data Analysis  
+	•	Data cleaning, exploratory analysis, and visualizations of relevant attributes (1 point).
+2.	Feature Selection  
+	•	Feature engineering, pruning, and justification for the choices made (1 point).
+3.	Model Training  
+	•	Explanation for selected model(s), and comparison of performance across models (1 point).
+4.	Model Evaluation  
+	•	Evaluation metric, results interpretation, and discussion (1 point).
+5.	Project Report  
+	•	A concise report summarizing the approach, results, and key insights (1 point).
+
+Bonus Points (up to 1 point):  
+	•	Reproducibility: A complete requirements.txt and README (0.5 point).  
+	•	Hosting: Hosting on platforms like GitHub, Docker, AWS, or Heroku (0.5 point).
 
 
-## Directory Structure (inspired by CookieCutter)
+## 📂 Directory Structure (inspired by CookieCutter)
 
-├── LICENSE  
-├── README.md&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- The top-level README for developers using this project.  
-├── data  
-&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;├── processed&ensp;&ensp;&ensp;&ensp;&ensp;<- The final, canonical data sets for modeling.  
-&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── raw&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- The original, immutable data dump.  
-│  
-├── models&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- Trained and serialized models, model predictions, or model summaries  
-│  
-├── notebooks&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- Jupyter notebooks  
-│  
-├── reports&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- Generated analysis as HTML, PDF, LaTeX, etc.  
-&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── figures&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- Generated graphics and figures to be used in reporting  
-│  
-└── requirements.txt&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<- The requirements file for reproducing the analysis environment, e.g.  generated with `pip freeze > requirements.txt`  
+The project structure follows the CookieCutter standard for reproducibility and organization:
+```bash
+├── LICENSE                   <- Project license.
+├── README.md                 <- This README file.
+├── data
+│   ├── processed             <- Processed data ready for modeling.
+│   └── raw                   <- Original, unmodified data files.
+│
+├── models                    <- Serialized models and predictions.
+│
+├── notebooks                 <- Jupyter notebooks for experimentation.
+│
+├── reports                   <- Generated analyses and reports.
+│   └── figures               <- Graphics and figures for reporting.
+│
+└── requirements.txt          <- List of dependencies for reproducing the environment.
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
